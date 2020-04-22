@@ -11,10 +11,10 @@ export default function App() {
       <Text style = {styles.text}>Education: </Text>
       </View>
       <View>
-      <Text style = {styles.text}>Abdullah Najam Qureshi</Text>
-      <Text style = {styles.text}>Najam Ahmed Qureshi</Text>
-      <Text style = {styles.text}>06/02/1999</Text>
-      <Text style = {styles.text}>BCS</Text>
+      <Text style = {styles.text}>Xyx</Text>
+      <Text style = {styles.text}>Zzz</Text>
+      <Text style = {styles.text}>30/08/1965</Text>
+      <Text style = {styles.text}>xxxx</Text>
       </View>
     </View>
   );
